@@ -7,10 +7,18 @@
         font-size: 5em;
     }
 }
+.inputs{
+    text-align: center;
+}
 .figures{
     margin: auto;
     width: 1000px;
     figcaption{
         text-align: center;
     }
+}
+.answer, .response{
+    text-align: center;
+    align-content: center;
+    height: 50px;
 }
